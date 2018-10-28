@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="utf-8" />
+        <title> About | Node.js </title>
+        <link href="css/styles.css" rel="stylesheet" type="text/css" />
+        <link href="https://fonts.googleapis.com/css?family=Share+Tech" rel="stylesheet">
+    </head>
+
+    <body>
+        
+        <header>
+            <h2> About | Node.js </h2>
+        </header>
+        <nav>
+            <a href="index.html">Home</a>
+            <a id="currentpage" href="about.html">About</a>
+            <a href="security.html">Security</a>
+            <a href="contributors.html">Contributors</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+        
+        <br/><br/>
+        
+        <div id="content">
+            <p>Node.js is a allochronic javascript program designed to build big network applications. 
+                In the following example, many connections can be handled simultaneously.
+                A callback is fired while each connection is happening, but once all jobs are completed, node.js will sleep.
+            </p>
+            <figure id= "example">
+                <img src="img/nodejsexample.PNG" alt="example" />
+            </figure>
+        
+            <p>This example above is a common model where OS threads are employed.
+                Thread-based networking is slow and hard to use.
+                Node users will have no problem with dead-locking their connections since locking does not exist.
+                Almost all of the Node functions does not perform any I/O, so it will never block.
+                This allows scalable systems to develop easier in this program.
+                
+            <br/><br/>
+                
+                While this language can be unfamiliar to others, there are articles about Blocking and Non-Blocking.
+                Node is close in design to systems like Ruby's Event Machine or Python's Twisted.
+                Node.js takes takes those event models to another step.
+                It shows an event loop as a runetime model instead of a library.
+                In other systems there is always a block in order to start the event-loop.
+                Typically behavior is defined through callbacks at the start of a command code and at the end starts a server through a blocking call like EventMachine::run).
+                Node basically enters the loop after inputting the script.
+                Node exits the event loop when there are no more callbacks to perform.
+                This behavior is like browser JavaScript - except the event is hidden from the user.
+                HTTP is a first class client in Node that was designed with constant streaming and low latency.
+                This makes Node suited for the creation of framework or web library. 
+                Juse because Node is designed without threads, it does not mean you cannot take advantage of multiple cores in the environment.
+                Child processes can be created by using child_process.fork API.
+                The child_process.fork is designed to be easy to communicate with.
+                With that same exact interfact is the cluster module.
+                THe cluster module allows you to share sockets between processes to enable load balancig over your cores.
+            </p>
+        </div>
+        
+
+        <footer id="lowtext">
+            <hr>
+                CST336 - Internet Programming. 2018&copy; Tang <br/>
+                <strong>Disclaimer:</strong> The information in this page is totally real.<br/>
+                It is used for academic purposes only.
+                
+            <figure >
+                <img src="img/logo.PNG" alt="School Logo"/>
+            </figure>
+                
+        </footer>
+        
+    </body>
+    <!-- closing body -->
+
+</html>

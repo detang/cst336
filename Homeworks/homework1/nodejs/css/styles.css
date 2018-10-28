@@ -1,0 +1,89 @@
+body {
+    background-color:white;
+    color:gray;
+    width: 960px;
+    margin: 0px auto;
+}
+
+header, main, nav, footer {
+    text-align: center;
+}
+
+nav a {
+    /* links within "nav" container */
+    padding: 15px;
+    padding-bottom: 4px;
+    font-size: 1.5em;
+    text-decoration: none;  /* removed underline */
+    color:gray;            /* by default, links are blue */
+    
+}
+#currentpage {
+    border-bottom:2px orange solid;
+}
+
+nav a:hover { /* psuedo class */
+    border-bottom:2px orange solid;
+    font-size: 1.8em;
+    transition: .9s;  /* transition effect */
+}
+
+#image {
+    float: left;
+    margin-right: 5px;
+    width:40%;
+}
+
+#welcometext {
+    text-align: left;
+    overflow:auto;
+}
+
+footer {
+    clear:left;
+    font-size: 0.8em;
+    color:LightGray;
+}
+
+#content {
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-size: 1.3em;
+    line-height: 1.6;
+}
+
+h1 {
+    
+    font-family: 'Share Tech', sans-serif;
+    font-size: 3em;
+    margin-bottom: 0px;
+    color:green;
+    
+}
+h2 {
+    font-family: 'Share Tech', sans-serif;
+    font-size: 2em;
+    margin-bottom: 0px;
+    color:green;
+}
+
+#bullets {
+    line-height: 1.6;
+    font-size: .8em;
+}
+
+#example {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+.container {
+    vertical-align: middle;
+    width: 200px;
+    height: auto;
+    margin-top: 15px;
+    margin-left: 23px;
+}
