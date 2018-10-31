@@ -9,12 +9,12 @@
        
         }
         
-        /*      $randomValue1 = rand(0, 2);
-        displaySymbol($randomValue1);
-        $randomValue2 = rand(0, 2);
-        displaySymbol($randomValue2);
-        $randomValue3 = rand(0, 2);
-        displaySymbol($randomValue3);
+        /*  $randomValue1 = rand(0, 2);
+            displaySymbol($randomValue1);
+            $randomValue2 = rand(0, 2);
+            displaySymbol($randomValue2);
+            $randomValue3 = rand(0, 2);
+            displaySymbol($randomValue3);
          
         if ($randomValue == 0){
             echo '<img src="img/seven.png" alt="seven" title="seven" width="70px" />';
@@ -28,18 +28,16 @@
         */
         
         function displaySymbol($randomValue, $pos){
-            $randomValue = rand(0, 3);
-
             
             switch ($randomValue){
                 case 0: $symbol = "seven";
-                    break;
+                        break;
                 case 1: $symbol = "cherry";
-                    break;
+                        break;
                 case 2: $symbol = "lemon";
-                    break;
+                        break;
                 case 3: $symbol = "bar";
-                    break;
+                        break;
             }
             echo "<img id='reel$pos' src='img/$symbol.png' alt='$symbol' title='".ucfirst($symbol) . "'width='70' >";
         }
@@ -47,7 +45,7 @@
         function displayPoints($randomValue1, $randomValue2, $randomValue3) {
             echo "<div id='output'>";
             
-            if ($randomValue1 == $randomValue2 && $randomValue2 == $randomValue3) {
+            if (($randomValue1 == $randomValue2) && ($randomValue2 == $randomValue3)) {
                 switch ($randomValue1) {
                     case 0: $totalPoints = 1000;
                         echo "<h1>Jackpot!</h1>";
@@ -57,7 +55,7 @@
                     case 2: $totalPoints = 250;
                         break;
                     case 3: $totalPoints = 900;
-                        echo "<h1>Semi - Jackpot!</h1>";
+                        echo "<h1>SemiJackpot!</h1>";
                         break;
                 }
                 
