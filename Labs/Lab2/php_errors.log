@@ -1,0 +1,22 @@
+[31-Oct-2018 04:17:33 UTC] PHP Parse error:  syntax error, unexpected '70' (T_LNUMBER), expecting ',' or ';' in /home/ubuntu/workspace/cst336/Labs/Lab2/777/index.php on line 41
+[31-Oct-2018 04:17:50 UTC] PHP Parse error:  syntax error, unexpected '70' (T_LNUMBER), expecting ',' or ';' in /home/ubuntu/workspace/cst336/Labs/Lab2/777/index.php on line 41
+[31-Oct-2018 04:20:35 UTC] PHP Warning:  ucfirst() expects exactly 1 parameter, 0 given in /home/ubuntu/workspace/cst336/Labs/Lab2/777/index.php on line 41
+[31-Oct-2018 04:20:35 UTC] PHP Stack trace:
+[31-Oct-2018 04:20:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Labs/Lab2/777/index.php:0
+[31-Oct-2018 04:20:35 UTC] PHP   2. displaySymbol() /home/ubuntu/workspace/cst336/Labs/Lab2/777/index.php:11
+[31-Oct-2018 04:20:35 UTC] PHP   3. ucfirst() /home/ubuntu/workspace/cst336/Labs/Lab2/777/index.php:41
+[31-Oct-2018 04:20:35 UTC] PHP Warning:  ucfirst() expects exactly 1 parameter, 0 given in /home/ubuntu/workspace/cst336/Labs/Lab2/777/index.php on line 41
+[31-Oct-2018 04:20:35 UTC] PHP Stack trace:
+[31-Oct-2018 04:20:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Labs/Lab2/777/index.php:0
+[31-Oct-2018 04:20:35 UTC] PHP   2. displaySymbol() /home/ubuntu/workspace/cst336/Labs/Lab2/777/index.php:11
+[31-Oct-2018 04:20:35 UTC] PHP   3. ucfirst() /home/ubuntu/workspace/cst336/Labs/Lab2/777/index.php:41
+[31-Oct-2018 04:20:35 UTC] PHP Warning:  ucfirst() expects exactly 1 parameter, 0 given in /home/ubuntu/workspace/cst336/Labs/Lab2/777/index.php on line 41
+[31-Oct-2018 04:20:35 UTC] PHP Stack trace:
+[31-Oct-2018 04:20:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Labs/Lab2/777/index.php:0
+[31-Oct-2018 04:20:35 UTC] PHP   2. displaySymbol() /home/ubuntu/workspace/cst336/Labs/Lab2/777/index.php:11
+[31-Oct-2018 04:20:35 UTC] PHP   3. ucfirst() /home/ubuntu/workspace/cst336/Labs/Lab2/777/index.php:41
+[31-Oct-2018 04:30:44 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ubuntu/workspace/cst336/Labs/Lab2/777/index.php on line 61
+[31-Oct-2018 04:35:25 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ubuntu/workspace/cst336/Labs/Lab2/777/index.php on line 61
+[31-Oct-2018 06:57:27 UTC] PHP Parse error:  syntax error, unexpected 'ucfirst' (T_STRING), expecting ',' or ';' in /home/ubuntu/workspace/cst336/Labs/Lab2/777/inc/functions.php on line 44
+[31-Oct-2018 06:57:27 UTC] PHP Stack trace:
+[31-Oct-2018 06:57:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Labs/Lab2/777/index.php:0
