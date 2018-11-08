@@ -1,0 +1,1050 @@
+[06-Nov-2018 22:26:26 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 48
+[06-Nov-2018 22:26:26 UTC] PHP Stack trace:
+[06-Nov-2018 22:26:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 22:26:26 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 22:26:26 UTC] PHP   3. dealerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:9
+[06-Nov-2018 22:26:26 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:48
+[06-Nov-2018 22:26:26 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 49
+[06-Nov-2018 22:26:26 UTC] PHP Stack trace:
+[06-Nov-2018 22:26:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 22:26:26 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 22:26:26 UTC] PHP   3. dealerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:9
+[06-Nov-2018 22:26:26 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:49
+[06-Nov-2018 22:26:26 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 56
+[06-Nov-2018 22:26:26 UTC] PHP Stack trace:
+[06-Nov-2018 22:26:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 22:26:26 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 22:26:26 UTC] PHP   3. playerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:17
+[06-Nov-2018 22:26:26 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:56
+[06-Nov-2018 22:26:26 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 57
+[06-Nov-2018 22:26:26 UTC] PHP Stack trace:
+[06-Nov-2018 22:26:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 22:26:26 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 22:26:26 UTC] PHP   3. playerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:17
+[06-Nov-2018 22:26:26 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:57
+[06-Nov-2018 22:26:26 UTC] PHP Warning:  print_r() expects at least 1 parameter, 0 given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 21
+[06-Nov-2018 22:26:26 UTC] PHP Stack trace:
+[06-Nov-2018 22:26:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 22:26:26 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 22:26:26 UTC] PHP   3. print_r() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:21
+[06-Nov-2018 22:26:34 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 48
+[06-Nov-2018 22:26:34 UTC] PHP Stack trace:
+[06-Nov-2018 22:26:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 22:26:34 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 22:26:34 UTC] PHP   3. dealerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:9
+[06-Nov-2018 22:26:34 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:48
+[06-Nov-2018 22:26:34 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 49
+[06-Nov-2018 22:26:34 UTC] PHP Stack trace:
+[06-Nov-2018 22:26:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 22:26:34 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 22:26:34 UTC] PHP   3. dealerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:9
+[06-Nov-2018 22:26:34 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:49
+[06-Nov-2018 22:26:34 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 56
+[06-Nov-2018 22:26:34 UTC] PHP Stack trace:
+[06-Nov-2018 22:26:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 22:26:34 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 22:26:34 UTC] PHP   3. playerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:17
+[06-Nov-2018 22:26:34 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:56
+[06-Nov-2018 22:26:34 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 57
+[06-Nov-2018 22:26:34 UTC] PHP Stack trace:
+[06-Nov-2018 22:26:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 22:26:34 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 22:26:34 UTC] PHP   3. playerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:17
+[06-Nov-2018 22:26:34 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:57
+[06-Nov-2018 22:26:34 UTC] PHP Warning:  print_r() expects at least 1 parameter, 0 given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 21
+[06-Nov-2018 22:26:34 UTC] PHP Stack trace:
+[06-Nov-2018 22:26:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 22:26:34 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 22:26:34 UTC] PHP   3. print_r() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:21
+[06-Nov-2018 22:26:38 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 48
+[06-Nov-2018 22:26:38 UTC] PHP Stack trace:
+[06-Nov-2018 22:26:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 22:26:38 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 22:26:38 UTC] PHP   3. dealerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:9
+[06-Nov-2018 22:26:38 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:48
+[06-Nov-2018 22:26:38 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 49
+[06-Nov-2018 22:26:38 UTC] PHP Stack trace:
+[06-Nov-2018 22:26:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 22:26:38 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 22:26:38 UTC] PHP   3. dealerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:9
+[06-Nov-2018 22:26:38 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:49
+[06-Nov-2018 22:26:38 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 56
+[06-Nov-2018 22:26:38 UTC] PHP Stack trace:
+[06-Nov-2018 22:26:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 22:26:38 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 22:26:38 UTC] PHP   3. playerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:17
+[06-Nov-2018 22:26:38 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:56
+[06-Nov-2018 22:26:38 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 57
+[06-Nov-2018 22:26:38 UTC] PHP Stack trace:
+[06-Nov-2018 22:26:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 22:26:38 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 22:26:38 UTC] PHP   3. playerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:17
+[06-Nov-2018 22:26:38 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:57
+[06-Nov-2018 22:26:38 UTC] PHP Warning:  print_r() expects at least 1 parameter, 0 given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 21
+[06-Nov-2018 22:26:38 UTC] PHP Stack trace:
+[06-Nov-2018 22:26:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 22:26:38 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 22:26:38 UTC] PHP   3. print_r() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:21
+[06-Nov-2018 22:28:06 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 45
+[06-Nov-2018 22:28:06 UTC] PHP Stack trace:
+[06-Nov-2018 22:28:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 22:28:06 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 22:28:06 UTC] PHP   3. dealerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:8
+[06-Nov-2018 22:28:06 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:45
+[06-Nov-2018 22:28:06 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 46
+[06-Nov-2018 22:28:06 UTC] PHP Stack trace:
+[06-Nov-2018 22:28:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 22:28:06 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 22:28:06 UTC] PHP   3. dealerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:8
+[06-Nov-2018 22:28:06 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:46
+[06-Nov-2018 22:28:06 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 53
+[06-Nov-2018 22:28:06 UTC] PHP Stack trace:
+[06-Nov-2018 22:28:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 22:28:06 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 22:28:06 UTC] PHP   3. playerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:16
+[06-Nov-2018 22:28:06 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:53
+[06-Nov-2018 22:28:06 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 54
+[06-Nov-2018 22:28:06 UTC] PHP Stack trace:
+[06-Nov-2018 22:28:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 22:28:06 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 22:28:06 UTC] PHP   3. playerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:16
+[06-Nov-2018 22:28:06 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:54
+[06-Nov-2018 22:28:59 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 45
+[06-Nov-2018 22:28:59 UTC] PHP Stack trace:
+[06-Nov-2018 22:28:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 22:28:59 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 22:28:59 UTC] PHP   3. dealerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:8
+[06-Nov-2018 22:28:59 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:45
+[06-Nov-2018 22:28:59 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 46
+[06-Nov-2018 22:28:59 UTC] PHP Stack trace:
+[06-Nov-2018 22:28:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 22:28:59 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 22:28:59 UTC] PHP   3. dealerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:8
+[06-Nov-2018 22:28:59 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:46
+[06-Nov-2018 22:28:59 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 53
+[06-Nov-2018 22:28:59 UTC] PHP Stack trace:
+[06-Nov-2018 22:28:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 22:28:59 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 22:28:59 UTC] PHP   3. playerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:16
+[06-Nov-2018 22:28:59 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:53
+[06-Nov-2018 22:28:59 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 54
+[06-Nov-2018 22:28:59 UTC] PHP Stack trace:
+[06-Nov-2018 22:28:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 22:28:59 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 22:28:59 UTC] PHP   3. playerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:16
+[06-Nov-2018 22:28:59 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:54
+[06-Nov-2018 22:29:03 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 45
+[06-Nov-2018 22:29:03 UTC] PHP Stack trace:
+[06-Nov-2018 22:29:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 22:29:03 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 22:29:03 UTC] PHP   3. dealerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:8
+[06-Nov-2018 22:29:03 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:45
+[06-Nov-2018 22:29:03 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 46
+[06-Nov-2018 22:29:03 UTC] PHP Stack trace:
+[06-Nov-2018 22:29:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 22:29:03 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 22:29:03 UTC] PHP   3. dealerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:8
+[06-Nov-2018 22:29:03 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:46
+[06-Nov-2018 22:29:03 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 53
+[06-Nov-2018 22:29:03 UTC] PHP Stack trace:
+[06-Nov-2018 22:29:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 22:29:03 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 22:29:03 UTC] PHP   3. playerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:16
+[06-Nov-2018 22:29:03 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:53
+[06-Nov-2018 22:29:03 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 54
+[06-Nov-2018 22:29:03 UTC] PHP Stack trace:
+[06-Nov-2018 22:29:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 22:29:03 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 22:29:03 UTC] PHP   3. playerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:16
+[06-Nov-2018 22:29:03 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:54
+[06-Nov-2018 22:42:18 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 31
+[06-Nov-2018 22:42:18 UTC] PHP Stack trace:
+[06-Nov-2018 22:42:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 22:42:18 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 22:42:18 UTC] PHP   3. dealerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:14
+[06-Nov-2018 22:42:18 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:41
+[06-Nov-2018 22:42:18 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:31
+[06-Nov-2018 22:42:18 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 32
+[06-Nov-2018 22:42:18 UTC] PHP Stack trace:
+[06-Nov-2018 22:42:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 22:42:18 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 22:42:18 UTC] PHP   3. dealerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:14
+[06-Nov-2018 22:42:18 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:41
+[06-Nov-2018 22:42:18 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:32
+[06-Nov-2018 22:42:18 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 31
+[06-Nov-2018 22:42:18 UTC] PHP Stack trace:
+[06-Nov-2018 22:42:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 22:42:18 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 22:42:18 UTC] PHP   3. dealerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:14
+[06-Nov-2018 22:42:18 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:44
+[06-Nov-2018 22:42:18 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:31
+[06-Nov-2018 22:42:18 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 32
+[06-Nov-2018 22:42:18 UTC] PHP Stack trace:
+[06-Nov-2018 22:42:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 22:42:18 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 22:42:18 UTC] PHP   3. dealerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:14
+[06-Nov-2018 22:42:18 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:44
+[06-Nov-2018 22:42:18 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:32
+[06-Nov-2018 22:42:18 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 31
+[06-Nov-2018 22:42:18 UTC] PHP Stack trace:
+[06-Nov-2018 22:42:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 22:42:18 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 22:42:18 UTC] PHP   3. playerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:22
+[06-Nov-2018 22:42:18 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:53
+[06-Nov-2018 22:42:18 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:31
+[06-Nov-2018 22:42:18 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 32
+[06-Nov-2018 22:42:18 UTC] PHP Stack trace:
+[06-Nov-2018 22:42:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 22:42:18 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 22:42:18 UTC] PHP   3. playerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:22
+[06-Nov-2018 22:42:18 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:53
+[06-Nov-2018 22:42:18 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:32
+[06-Nov-2018 22:42:18 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 31
+[06-Nov-2018 22:42:18 UTC] PHP Stack trace:
+[06-Nov-2018 22:42:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 22:42:18 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 22:42:18 UTC] PHP   3. playerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:22
+[06-Nov-2018 22:42:18 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:56
+[06-Nov-2018 22:42:18 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:31
+[06-Nov-2018 22:42:18 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 32
+[06-Nov-2018 22:42:18 UTC] PHP Stack trace:
+[06-Nov-2018 22:42:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 22:42:18 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 22:42:18 UTC] PHP   3. playerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:22
+[06-Nov-2018 22:42:18 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:56
+[06-Nov-2018 22:42:18 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:32
+[06-Nov-2018 22:42:23 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 31
+[06-Nov-2018 22:42:23 UTC] PHP Stack trace:
+[06-Nov-2018 22:42:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 22:42:23 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 22:42:23 UTC] PHP   3. dealerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:14
+[06-Nov-2018 22:42:23 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:41
+[06-Nov-2018 22:42:23 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:31
+[06-Nov-2018 22:42:23 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 32
+[06-Nov-2018 22:42:23 UTC] PHP Stack trace:
+[06-Nov-2018 22:42:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 22:42:23 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 22:42:23 UTC] PHP   3. dealerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:14
+[06-Nov-2018 22:42:23 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:41
+[06-Nov-2018 22:42:23 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:32
+[06-Nov-2018 22:42:23 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 31
+[06-Nov-2018 22:42:23 UTC] PHP Stack trace:
+[06-Nov-2018 22:42:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 22:42:23 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 22:42:23 UTC] PHP   3. dealerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:14
+[06-Nov-2018 22:42:23 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:44
+[06-Nov-2018 22:42:23 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:31
+[06-Nov-2018 22:42:23 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 32
+[06-Nov-2018 22:42:23 UTC] PHP Stack trace:
+[06-Nov-2018 22:42:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 22:42:23 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 22:42:23 UTC] PHP   3. dealerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:14
+[06-Nov-2018 22:42:23 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:44
+[06-Nov-2018 22:42:23 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:32
+[06-Nov-2018 22:42:23 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 31
+[06-Nov-2018 22:42:23 UTC] PHP Stack trace:
+[06-Nov-2018 22:42:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 22:42:23 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 22:42:23 UTC] PHP   3. playerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:22
+[06-Nov-2018 22:42:23 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:53
+[06-Nov-2018 22:42:23 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:31
+[06-Nov-2018 22:42:23 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 32
+[06-Nov-2018 22:42:23 UTC] PHP Stack trace:
+[06-Nov-2018 22:42:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 22:42:23 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 22:42:23 UTC] PHP   3. playerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:22
+[06-Nov-2018 22:42:23 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:53
+[06-Nov-2018 22:42:23 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:32
+[06-Nov-2018 22:42:23 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 31
+[06-Nov-2018 22:42:23 UTC] PHP Stack trace:
+[06-Nov-2018 22:42:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 22:42:23 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 22:42:23 UTC] PHP   3. playerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:22
+[06-Nov-2018 22:42:23 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:56
+[06-Nov-2018 22:42:23 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:31
+[06-Nov-2018 22:42:23 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 32
+[06-Nov-2018 22:42:23 UTC] PHP Stack trace:
+[06-Nov-2018 22:42:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 22:42:23 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 22:42:23 UTC] PHP   3. playerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:22
+[06-Nov-2018 22:42:23 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:56
+[06-Nov-2018 22:42:23 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:32
+[06-Nov-2018 22:49:35 UTC] PHP Warning:  Missing argument 1 for pickCard(), called in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 50 and defined in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 34
+[06-Nov-2018 22:49:35 UTC] PHP Stack trace:
+[06-Nov-2018 22:49:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 22:49:35 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 22:49:35 UTC] PHP   3. dealerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:8
+[06-Nov-2018 22:49:35 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:50
+[06-Nov-2018 22:49:35 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 35
+[06-Nov-2018 22:49:35 UTC] PHP Stack trace:
+[06-Nov-2018 22:49:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 22:49:35 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 22:49:35 UTC] PHP   3. dealerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:8
+[06-Nov-2018 22:49:35 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:50
+[06-Nov-2018 22:49:35 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:35
+[06-Nov-2018 22:49:35 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 36
+[06-Nov-2018 22:49:35 UTC] PHP Stack trace:
+[06-Nov-2018 22:49:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 22:49:35 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 22:49:35 UTC] PHP   3. dealerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:8
+[06-Nov-2018 22:49:35 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:50
+[06-Nov-2018 22:49:35 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:36
+[06-Nov-2018 22:49:35 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 39
+[06-Nov-2018 22:49:35 UTC] PHP Stack trace:
+[06-Nov-2018 22:49:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 22:49:35 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 22:49:35 UTC] PHP   3. dealerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:8
+[06-Nov-2018 22:49:35 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:50
+[06-Nov-2018 22:49:35 UTC] PHP   5. array_search() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:39
+[06-Nov-2018 22:49:35 UTC] PHP Warning:  Missing argument 1 for pickCard(), called in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 53 and defined in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 34
+[06-Nov-2018 22:49:35 UTC] PHP Stack trace:
+[06-Nov-2018 22:49:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 22:49:35 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 22:49:35 UTC] PHP   3. dealerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:8
+[06-Nov-2018 22:49:35 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:53
+[06-Nov-2018 22:49:35 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 35
+[06-Nov-2018 22:49:35 UTC] PHP Stack trace:
+[06-Nov-2018 22:49:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 22:49:35 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 22:49:35 UTC] PHP   3. dealerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:8
+[06-Nov-2018 22:49:35 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:53
+[06-Nov-2018 22:49:35 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:35
+[06-Nov-2018 22:49:35 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 36
+[06-Nov-2018 22:49:35 UTC] PHP Stack trace:
+[06-Nov-2018 22:49:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 22:49:35 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 22:49:35 UTC] PHP   3. dealerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:8
+[06-Nov-2018 22:49:35 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:53
+[06-Nov-2018 22:49:35 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:36
+[06-Nov-2018 22:49:35 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 39
+[06-Nov-2018 22:49:35 UTC] PHP Stack trace:
+[06-Nov-2018 22:49:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 22:49:35 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 22:49:35 UTC] PHP   3. dealerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:8
+[06-Nov-2018 22:49:35 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:53
+[06-Nov-2018 22:49:35 UTC] PHP   5. array_search() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:39
+[06-Nov-2018 22:49:35 UTC] PHP Warning:  Missing argument 1 for pickCard(), called in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 62 and defined in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 34
+[06-Nov-2018 22:49:35 UTC] PHP Stack trace:
+[06-Nov-2018 22:49:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 22:49:35 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 22:49:35 UTC] PHP   3. playerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:16
+[06-Nov-2018 22:49:35 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:62
+[06-Nov-2018 22:49:35 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 35
+[06-Nov-2018 22:49:35 UTC] PHP Stack trace:
+[06-Nov-2018 22:49:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 22:49:35 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 22:49:35 UTC] PHP   3. playerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:16
+[06-Nov-2018 22:49:35 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:62
+[06-Nov-2018 22:49:35 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:35
+[06-Nov-2018 22:49:35 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 36
+[06-Nov-2018 22:49:35 UTC] PHP Stack trace:
+[06-Nov-2018 22:49:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 22:49:35 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 22:49:35 UTC] PHP   3. playerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:16
+[06-Nov-2018 22:49:35 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:62
+[06-Nov-2018 22:49:35 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:36
+[06-Nov-2018 22:49:35 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 39
+[06-Nov-2018 22:49:35 UTC] PHP Stack trace:
+[06-Nov-2018 22:49:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 22:49:35 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 22:49:35 UTC] PHP   3. playerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:16
+[06-Nov-2018 22:49:35 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:62
+[06-Nov-2018 22:49:35 UTC] PHP   5. array_search() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:39
+[06-Nov-2018 22:49:35 UTC] PHP Warning:  Missing argument 1 for pickCard(), called in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 65 and defined in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 34
+[06-Nov-2018 22:49:35 UTC] PHP Stack trace:
+[06-Nov-2018 22:49:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 22:49:35 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 22:49:35 UTC] PHP   3. playerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:16
+[06-Nov-2018 22:49:35 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:65
+[06-Nov-2018 22:49:35 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 35
+[06-Nov-2018 22:49:35 UTC] PHP Stack trace:
+[06-Nov-2018 22:49:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 22:49:35 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 22:49:35 UTC] PHP   3. playerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:16
+[06-Nov-2018 22:49:35 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:65
+[06-Nov-2018 22:49:35 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:35
+[06-Nov-2018 22:49:35 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 36
+[06-Nov-2018 22:49:35 UTC] PHP Stack trace:
+[06-Nov-2018 22:49:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 22:49:35 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 22:49:35 UTC] PHP   3. playerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:16
+[06-Nov-2018 22:49:35 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:65
+[06-Nov-2018 22:49:35 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:36
+[06-Nov-2018 22:49:35 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 39
+[06-Nov-2018 22:49:35 UTC] PHP Stack trace:
+[06-Nov-2018 22:49:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 22:49:35 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 22:49:35 UTC] PHP   3. playerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:16
+[06-Nov-2018 22:49:35 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:65
+[06-Nov-2018 22:49:35 UTC] PHP   5. array_search() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:39
+[06-Nov-2018 22:55:47 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 33
+[06-Nov-2018 22:55:47 UTC] PHP Stack trace:
+[06-Nov-2018 22:55:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 22:55:47 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 22:55:47 UTC] PHP   3. dealerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:15
+[06-Nov-2018 22:55:47 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:43
+[06-Nov-2018 22:55:47 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:33
+[06-Nov-2018 22:55:47 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 34
+[06-Nov-2018 22:55:47 UTC] PHP Stack trace:
+[06-Nov-2018 22:55:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 22:55:47 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 22:55:47 UTC] PHP   3. dealerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:15
+[06-Nov-2018 22:55:47 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:43
+[06-Nov-2018 22:55:47 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:34
+[06-Nov-2018 22:55:47 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 33
+[06-Nov-2018 22:55:47 UTC] PHP Stack trace:
+[06-Nov-2018 22:55:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 22:55:47 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 22:55:47 UTC] PHP   3. dealerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:15
+[06-Nov-2018 22:55:47 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:46
+[06-Nov-2018 22:55:47 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:33
+[06-Nov-2018 22:55:47 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 34
+[06-Nov-2018 22:55:47 UTC] PHP Stack trace:
+[06-Nov-2018 22:55:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 22:55:47 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 22:55:47 UTC] PHP   3. dealerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:15
+[06-Nov-2018 22:55:47 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:46
+[06-Nov-2018 22:55:47 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:34
+[06-Nov-2018 22:55:47 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 33
+[06-Nov-2018 22:55:47 UTC] PHP Stack trace:
+[06-Nov-2018 22:55:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 22:55:47 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 22:55:47 UTC] PHP   3. playerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:23
+[06-Nov-2018 22:55:47 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:59
+[06-Nov-2018 22:55:47 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:33
+[06-Nov-2018 22:55:47 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 34
+[06-Nov-2018 22:55:47 UTC] PHP Stack trace:
+[06-Nov-2018 22:55:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 22:55:47 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 22:55:47 UTC] PHP   3. playerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:23
+[06-Nov-2018 22:55:47 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:59
+[06-Nov-2018 22:55:47 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:34
+[06-Nov-2018 22:55:47 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 33
+[06-Nov-2018 22:55:47 UTC] PHP Stack trace:
+[06-Nov-2018 22:55:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 22:55:47 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 22:55:47 UTC] PHP   3. playerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:23
+[06-Nov-2018 22:55:47 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:62
+[06-Nov-2018 22:55:47 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:33
+[06-Nov-2018 22:55:47 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 34
+[06-Nov-2018 22:55:47 UTC] PHP Stack trace:
+[06-Nov-2018 22:55:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 22:55:47 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 22:55:47 UTC] PHP   3. playerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:23
+[06-Nov-2018 22:55:47 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:62
+[06-Nov-2018 22:55:47 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:34
+[06-Nov-2018 22:58:04 UTC] PHP Fatal error:  Call to undefined function remove_element() in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 35
+[06-Nov-2018 22:58:04 UTC] PHP Stack trace:
+[06-Nov-2018 22:58:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 22:58:04 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 22:58:04 UTC] PHP   3. dealerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:8
+[06-Nov-2018 22:58:04 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:46
+[06-Nov-2018 22:58:06 UTC] PHP Fatal error:  Call to undefined function remove_element() in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 35
+[06-Nov-2018 22:58:06 UTC] PHP Stack trace:
+[06-Nov-2018 22:58:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 22:58:06 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 22:58:06 UTC] PHP   3. dealerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:8
+[06-Nov-2018 22:58:06 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:46
+[06-Nov-2018 23:01:20 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 39
+[06-Nov-2018 23:01:20 UTC] PHP Stack trace:
+[06-Nov-2018 23:01:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:01:20 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:01:20 UTC] PHP   3. dealerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:14
+[06-Nov-2018 23:01:20 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:53
+[06-Nov-2018 23:01:20 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:39
+[06-Nov-2018 23:01:20 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 40
+[06-Nov-2018 23:01:20 UTC] PHP Stack trace:
+[06-Nov-2018 23:01:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:01:20 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:01:20 UTC] PHP   3. dealerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:14
+[06-Nov-2018 23:01:20 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:53
+[06-Nov-2018 23:01:20 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:40
+[06-Nov-2018 23:01:20 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 31
+[06-Nov-2018 23:01:20 UTC] PHP Stack trace:
+[06-Nov-2018 23:01:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:01:20 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:01:20 UTC] PHP   3. dealerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:14
+[06-Nov-2018 23:01:20 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:53
+[06-Nov-2018 23:01:20 UTC] PHP   5. remove_element() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:42
+[06-Nov-2018 23:01:20 UTC] PHP   6. array_search() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:31
+[06-Nov-2018 23:01:20 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 39
+[06-Nov-2018 23:01:20 UTC] PHP Stack trace:
+[06-Nov-2018 23:01:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:01:20 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:01:20 UTC] PHP   3. dealerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:14
+[06-Nov-2018 23:01:20 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:56
+[06-Nov-2018 23:01:20 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:39
+[06-Nov-2018 23:01:20 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 40
+[06-Nov-2018 23:01:20 UTC] PHP Stack trace:
+[06-Nov-2018 23:01:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:01:20 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:01:20 UTC] PHP   3. dealerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:14
+[06-Nov-2018 23:01:20 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:56
+[06-Nov-2018 23:01:20 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:40
+[06-Nov-2018 23:01:20 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 31
+[06-Nov-2018 23:01:20 UTC] PHP Stack trace:
+[06-Nov-2018 23:01:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:01:20 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:01:20 UTC] PHP   3. dealerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:14
+[06-Nov-2018 23:01:20 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:56
+[06-Nov-2018 23:01:20 UTC] PHP   5. remove_element() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:42
+[06-Nov-2018 23:01:20 UTC] PHP   6. array_search() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:31
+[06-Nov-2018 23:01:20 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 39
+[06-Nov-2018 23:01:20 UTC] PHP Stack trace:
+[06-Nov-2018 23:01:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:01:20 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:01:20 UTC] PHP   3. playerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:22
+[06-Nov-2018 23:01:20 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:68
+[06-Nov-2018 23:01:20 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:39
+[06-Nov-2018 23:01:20 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 40
+[06-Nov-2018 23:01:20 UTC] PHP Stack trace:
+[06-Nov-2018 23:01:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:01:20 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:01:20 UTC] PHP   3. playerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:22
+[06-Nov-2018 23:01:20 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:68
+[06-Nov-2018 23:01:20 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:40
+[06-Nov-2018 23:01:20 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 31
+[06-Nov-2018 23:01:20 UTC] PHP Stack trace:
+[06-Nov-2018 23:01:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:01:20 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:01:20 UTC] PHP   3. playerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:22
+[06-Nov-2018 23:01:20 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:68
+[06-Nov-2018 23:01:20 UTC] PHP   5. remove_element() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:42
+[06-Nov-2018 23:01:20 UTC] PHP   6. array_search() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:31
+[06-Nov-2018 23:01:20 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 39
+[06-Nov-2018 23:01:20 UTC] PHP Stack trace:
+[06-Nov-2018 23:01:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:01:20 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:01:20 UTC] PHP   3. playerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:22
+[06-Nov-2018 23:01:20 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:71
+[06-Nov-2018 23:01:20 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:39
+[06-Nov-2018 23:01:20 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 40
+[06-Nov-2018 23:01:20 UTC] PHP Stack trace:
+[06-Nov-2018 23:01:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:01:20 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:01:20 UTC] PHP   3. playerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:22
+[06-Nov-2018 23:01:20 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:71
+[06-Nov-2018 23:01:20 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:40
+[06-Nov-2018 23:01:20 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 31
+[06-Nov-2018 23:01:20 UTC] PHP Stack trace:
+[06-Nov-2018 23:01:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:01:20 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:01:20 UTC] PHP   3. playerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:22
+[06-Nov-2018 23:01:20 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:71
+[06-Nov-2018 23:01:20 UTC] PHP   5. remove_element() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:42
+[06-Nov-2018 23:01:20 UTC] PHP   6. array_search() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:31
+[06-Nov-2018 23:02:41 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 39
+[06-Nov-2018 23:02:41 UTC] PHP Stack trace:
+[06-Nov-2018 23:02:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:02:41 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:02:41 UTC] PHP   3. dealerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:14
+[06-Nov-2018 23:02:41 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:53
+[06-Nov-2018 23:02:41 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:39
+[06-Nov-2018 23:02:41 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 40
+[06-Nov-2018 23:02:41 UTC] PHP Stack trace:
+[06-Nov-2018 23:02:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:02:41 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:02:41 UTC] PHP   3. dealerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:14
+[06-Nov-2018 23:02:41 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:53
+[06-Nov-2018 23:02:41 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:40
+[06-Nov-2018 23:02:41 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 31
+[06-Nov-2018 23:02:41 UTC] PHP Stack trace:
+[06-Nov-2018 23:02:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:02:41 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:02:41 UTC] PHP   3. dealerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:14
+[06-Nov-2018 23:02:41 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:53
+[06-Nov-2018 23:02:41 UTC] PHP   5. remove_element() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:42
+[06-Nov-2018 23:02:41 UTC] PHP   6. array_search() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:31
+[06-Nov-2018 23:02:41 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 39
+[06-Nov-2018 23:02:41 UTC] PHP Stack trace:
+[06-Nov-2018 23:02:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:02:41 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:02:41 UTC] PHP   3. dealerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:14
+[06-Nov-2018 23:02:41 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:56
+[06-Nov-2018 23:02:41 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:39
+[06-Nov-2018 23:02:41 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 40
+[06-Nov-2018 23:02:41 UTC] PHP Stack trace:
+[06-Nov-2018 23:02:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:02:41 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:02:41 UTC] PHP   3. dealerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:14
+[06-Nov-2018 23:02:41 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:56
+[06-Nov-2018 23:02:41 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:40
+[06-Nov-2018 23:02:41 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 31
+[06-Nov-2018 23:02:41 UTC] PHP Stack trace:
+[06-Nov-2018 23:02:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:02:41 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:02:41 UTC] PHP   3. dealerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:14
+[06-Nov-2018 23:02:41 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:56
+[06-Nov-2018 23:02:41 UTC] PHP   5. remove_element() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:42
+[06-Nov-2018 23:02:41 UTC] PHP   6. array_search() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:31
+[06-Nov-2018 23:02:41 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 39
+[06-Nov-2018 23:02:41 UTC] PHP Stack trace:
+[06-Nov-2018 23:02:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:02:41 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:02:41 UTC] PHP   3. playerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:22
+[06-Nov-2018 23:02:41 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:68
+[06-Nov-2018 23:02:41 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:39
+[06-Nov-2018 23:02:41 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 40
+[06-Nov-2018 23:02:41 UTC] PHP Stack trace:
+[06-Nov-2018 23:02:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:02:41 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:02:41 UTC] PHP   3. playerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:22
+[06-Nov-2018 23:02:41 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:68
+[06-Nov-2018 23:02:41 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:40
+[06-Nov-2018 23:02:41 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 31
+[06-Nov-2018 23:02:41 UTC] PHP Stack trace:
+[06-Nov-2018 23:02:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:02:41 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:02:41 UTC] PHP   3. playerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:22
+[06-Nov-2018 23:02:41 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:68
+[06-Nov-2018 23:02:41 UTC] PHP   5. remove_element() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:42
+[06-Nov-2018 23:02:41 UTC] PHP   6. array_search() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:31
+[06-Nov-2018 23:02:41 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 39
+[06-Nov-2018 23:02:41 UTC] PHP Stack trace:
+[06-Nov-2018 23:02:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:02:41 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:02:41 UTC] PHP   3. playerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:22
+[06-Nov-2018 23:02:41 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:71
+[06-Nov-2018 23:02:41 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:39
+[06-Nov-2018 23:02:41 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 40
+[06-Nov-2018 23:02:41 UTC] PHP Stack trace:
+[06-Nov-2018 23:02:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:02:41 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:02:41 UTC] PHP   3. playerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:22
+[06-Nov-2018 23:02:41 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:71
+[06-Nov-2018 23:02:41 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:40
+[06-Nov-2018 23:02:41 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 31
+[06-Nov-2018 23:02:41 UTC] PHP Stack trace:
+[06-Nov-2018 23:02:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:02:41 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:02:41 UTC] PHP   3. playerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:22
+[06-Nov-2018 23:02:41 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:71
+[06-Nov-2018 23:02:41 UTC] PHP   5. remove_element() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:42
+[06-Nov-2018 23:02:41 UTC] PHP   6. array_search() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:31
+[06-Nov-2018 23:03:44 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 44
+[06-Nov-2018 23:03:44 UTC] PHP Stack trace:
+[06-Nov-2018 23:03:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:03:54 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 39
+[06-Nov-2018 23:03:54 UTC] PHP Stack trace:
+[06-Nov-2018 23:03:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:03:54 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:03:54 UTC] PHP   3. dealerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:14
+[06-Nov-2018 23:03:54 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:53
+[06-Nov-2018 23:03:54 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:39
+[06-Nov-2018 23:03:54 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 40
+[06-Nov-2018 23:03:54 UTC] PHP Stack trace:
+[06-Nov-2018 23:03:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:03:54 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:03:54 UTC] PHP   3. dealerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:14
+[06-Nov-2018 23:03:54 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:53
+[06-Nov-2018 23:03:54 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:40
+[06-Nov-2018 23:03:54 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 31
+[06-Nov-2018 23:03:54 UTC] PHP Stack trace:
+[06-Nov-2018 23:03:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:03:54 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:03:54 UTC] PHP   3. dealerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:14
+[06-Nov-2018 23:03:54 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:53
+[06-Nov-2018 23:03:54 UTC] PHP   5. remove_element() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:42
+[06-Nov-2018 23:03:54 UTC] PHP   6. array_search() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:31
+[06-Nov-2018 23:03:54 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 39
+[06-Nov-2018 23:03:54 UTC] PHP Stack trace:
+[06-Nov-2018 23:03:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:03:54 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:03:54 UTC] PHP   3. dealerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:14
+[06-Nov-2018 23:03:54 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:56
+[06-Nov-2018 23:03:54 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:39
+[06-Nov-2018 23:03:54 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 40
+[06-Nov-2018 23:03:54 UTC] PHP Stack trace:
+[06-Nov-2018 23:03:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:03:54 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:03:54 UTC] PHP   3. dealerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:14
+[06-Nov-2018 23:03:54 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:56
+[06-Nov-2018 23:03:54 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:40
+[06-Nov-2018 23:03:54 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 31
+[06-Nov-2018 23:03:54 UTC] PHP Stack trace:
+[06-Nov-2018 23:03:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:03:54 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:03:54 UTC] PHP   3. dealerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:14
+[06-Nov-2018 23:03:54 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:56
+[06-Nov-2018 23:03:54 UTC] PHP   5. remove_element() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:42
+[06-Nov-2018 23:03:54 UTC] PHP   6. array_search() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:31
+[06-Nov-2018 23:03:54 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 39
+[06-Nov-2018 23:03:54 UTC] PHP Stack trace:
+[06-Nov-2018 23:03:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:03:54 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:03:54 UTC] PHP   3. playerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:22
+[06-Nov-2018 23:03:54 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:68
+[06-Nov-2018 23:03:54 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:39
+[06-Nov-2018 23:03:54 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 40
+[06-Nov-2018 23:03:54 UTC] PHP Stack trace:
+[06-Nov-2018 23:03:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:03:54 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:03:54 UTC] PHP   3. playerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:22
+[06-Nov-2018 23:03:54 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:68
+[06-Nov-2018 23:03:54 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:40
+[06-Nov-2018 23:03:54 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 31
+[06-Nov-2018 23:03:54 UTC] PHP Stack trace:
+[06-Nov-2018 23:03:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:03:54 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:03:54 UTC] PHP   3. playerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:22
+[06-Nov-2018 23:03:54 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:68
+[06-Nov-2018 23:03:54 UTC] PHP   5. remove_element() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:42
+[06-Nov-2018 23:03:54 UTC] PHP   6. array_search() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:31
+[06-Nov-2018 23:03:54 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 39
+[06-Nov-2018 23:03:54 UTC] PHP Stack trace:
+[06-Nov-2018 23:03:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:03:54 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:03:54 UTC] PHP   3. playerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:22
+[06-Nov-2018 23:03:54 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:71
+[06-Nov-2018 23:03:54 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:39
+[06-Nov-2018 23:03:54 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 40
+[06-Nov-2018 23:03:54 UTC] PHP Stack trace:
+[06-Nov-2018 23:03:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:03:54 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:03:54 UTC] PHP   3. playerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:22
+[06-Nov-2018 23:03:54 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:71
+[06-Nov-2018 23:03:54 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:40
+[06-Nov-2018 23:03:54 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 31
+[06-Nov-2018 23:03:54 UTC] PHP Stack trace:
+[06-Nov-2018 23:03:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:03:54 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:03:54 UTC] PHP   3. playerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:22
+[06-Nov-2018 23:03:54 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:71
+[06-Nov-2018 23:03:54 UTC] PHP   5. remove_element() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:42
+[06-Nov-2018 23:03:54 UTC] PHP   6. array_search() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:31
+[06-Nov-2018 23:12:41 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 40
+[06-Nov-2018 23:12:41 UTC] PHP Stack trace:
+[06-Nov-2018 23:12:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:12:41 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:12:41 UTC] PHP   3. dealerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:14
+[06-Nov-2018 23:12:41 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:57
+[06-Nov-2018 23:12:41 UTC] PHP   5. array_search() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:40
+[06-Nov-2018 23:12:41 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 40
+[06-Nov-2018 23:12:41 UTC] PHP Stack trace:
+[06-Nov-2018 23:12:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:12:41 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:12:41 UTC] PHP   3. dealerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:14
+[06-Nov-2018 23:12:41 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:60
+[06-Nov-2018 23:12:41 UTC] PHP   5. array_search() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:40
+[06-Nov-2018 23:12:41 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 40
+[06-Nov-2018 23:12:41 UTC] PHP Stack trace:
+[06-Nov-2018 23:12:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:12:41 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:12:41 UTC] PHP   3. playerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:22
+[06-Nov-2018 23:12:41 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:70
+[06-Nov-2018 23:12:41 UTC] PHP   5. array_search() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:40
+[06-Nov-2018 23:12:41 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 40
+[06-Nov-2018 23:12:41 UTC] PHP Stack trace:
+[06-Nov-2018 23:12:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:12:41 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:12:41 UTC] PHP   3. playerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:22
+[06-Nov-2018 23:12:41 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:73
+[06-Nov-2018 23:12:41 UTC] PHP   5. array_search() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:40
+[06-Nov-2018 23:31:21 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 31
+[06-Nov-2018 23:31:21 UTC] PHP Stack trace:
+[06-Nov-2018 23:31:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:31:21 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:31:21 UTC] PHP   3. dealerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:14
+[06-Nov-2018 23:31:21 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:53
+[06-Nov-2018 23:31:21 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:31
+[06-Nov-2018 23:31:21 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 32
+[06-Nov-2018 23:31:21 UTC] PHP Stack trace:
+[06-Nov-2018 23:31:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:31:21 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:31:21 UTC] PHP   3. dealerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:14
+[06-Nov-2018 23:31:21 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:53
+[06-Nov-2018 23:31:21 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:32
+[06-Nov-2018 23:31:21 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 31
+[06-Nov-2018 23:31:21 UTC] PHP Stack trace:
+[06-Nov-2018 23:31:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:31:21 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:31:21 UTC] PHP   3. dealerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:14
+[06-Nov-2018 23:31:21 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:56
+[06-Nov-2018 23:31:21 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:31
+[06-Nov-2018 23:31:21 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 32
+[06-Nov-2018 23:31:21 UTC] PHP Stack trace:
+[06-Nov-2018 23:31:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:31:21 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:31:21 UTC] PHP   3. dealerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:14
+[06-Nov-2018 23:31:21 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:56
+[06-Nov-2018 23:31:21 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:32
+[06-Nov-2018 23:31:21 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 31
+[06-Nov-2018 23:31:21 UTC] PHP Stack trace:
+[06-Nov-2018 23:31:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:31:21 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:31:21 UTC] PHP   3. playerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:22
+[06-Nov-2018 23:31:21 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:66
+[06-Nov-2018 23:31:21 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:31
+[06-Nov-2018 23:31:21 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 32
+[06-Nov-2018 23:31:21 UTC] PHP Stack trace:
+[06-Nov-2018 23:31:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:31:21 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:31:21 UTC] PHP   3. playerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:22
+[06-Nov-2018 23:31:21 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:66
+[06-Nov-2018 23:31:21 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:32
+[06-Nov-2018 23:31:21 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 31
+[06-Nov-2018 23:31:21 UTC] PHP Stack trace:
+[06-Nov-2018 23:31:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:31:21 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:31:21 UTC] PHP   3. playerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:22
+[06-Nov-2018 23:31:21 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:69
+[06-Nov-2018 23:31:21 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:31
+[06-Nov-2018 23:31:21 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 32
+[06-Nov-2018 23:31:21 UTC] PHP Stack trace:
+[06-Nov-2018 23:31:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:31:21 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:31:21 UTC] PHP   3. playerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:22
+[06-Nov-2018 23:31:21 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:69
+[06-Nov-2018 23:31:21 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:32
+[06-Nov-2018 23:31:33 UTC] PHP Warning:  Missing argument 1 for pickCard(), called in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 53 and defined in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 29
+[06-Nov-2018 23:31:33 UTC] PHP Stack trace:
+[06-Nov-2018 23:31:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:31:33 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:31:33 UTC] PHP   3. dealerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:14
+[06-Nov-2018 23:31:33 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:53
+[06-Nov-2018 23:31:33 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 31
+[06-Nov-2018 23:31:33 UTC] PHP Stack trace:
+[06-Nov-2018 23:31:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:31:33 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:31:33 UTC] PHP   3. dealerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:14
+[06-Nov-2018 23:31:33 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:53
+[06-Nov-2018 23:31:33 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:31
+[06-Nov-2018 23:31:33 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 32
+[06-Nov-2018 23:31:33 UTC] PHP Stack trace:
+[06-Nov-2018 23:31:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:31:33 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:31:33 UTC] PHP   3. dealerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:14
+[06-Nov-2018 23:31:33 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:53
+[06-Nov-2018 23:31:33 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:32
+[06-Nov-2018 23:31:33 UTC] PHP Warning:  Missing argument 1 for pickCard(), called in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 56 and defined in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 29
+[06-Nov-2018 23:31:33 UTC] PHP Stack trace:
+[06-Nov-2018 23:31:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:31:33 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:31:33 UTC] PHP   3. dealerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:14
+[06-Nov-2018 23:31:33 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:56
+[06-Nov-2018 23:31:33 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 31
+[06-Nov-2018 23:31:33 UTC] PHP Stack trace:
+[06-Nov-2018 23:31:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:31:33 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:31:33 UTC] PHP   3. dealerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:14
+[06-Nov-2018 23:31:33 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:56
+[06-Nov-2018 23:31:33 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:31
+[06-Nov-2018 23:31:33 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 32
+[06-Nov-2018 23:31:33 UTC] PHP Stack trace:
+[06-Nov-2018 23:31:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:31:33 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:31:33 UTC] PHP   3. dealerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:14
+[06-Nov-2018 23:31:33 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:56
+[06-Nov-2018 23:31:33 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:32
+[06-Nov-2018 23:31:33 UTC] PHP Warning:  Missing argument 1 for pickCard(), called in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 66 and defined in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 29
+[06-Nov-2018 23:31:33 UTC] PHP Stack trace:
+[06-Nov-2018 23:31:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:31:33 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:31:33 UTC] PHP   3. playerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:22
+[06-Nov-2018 23:31:33 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:66
+[06-Nov-2018 23:31:33 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 31
+[06-Nov-2018 23:31:33 UTC] PHP Stack trace:
+[06-Nov-2018 23:31:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:31:33 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:31:33 UTC] PHP   3. playerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:22
+[06-Nov-2018 23:31:33 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:66
+[06-Nov-2018 23:31:33 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:31
+[06-Nov-2018 23:31:33 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 32
+[06-Nov-2018 23:31:33 UTC] PHP Stack trace:
+[06-Nov-2018 23:31:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:31:33 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:31:33 UTC] PHP   3. playerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:22
+[06-Nov-2018 23:31:33 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:66
+[06-Nov-2018 23:31:33 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:32
+[06-Nov-2018 23:31:33 UTC] PHP Warning:  Missing argument 1 for pickCard(), called in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 69 and defined in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 29
+[06-Nov-2018 23:31:33 UTC] PHP Stack trace:
+[06-Nov-2018 23:31:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:31:33 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:31:33 UTC] PHP   3. playerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:22
+[06-Nov-2018 23:31:33 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:69
+[06-Nov-2018 23:31:33 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 31
+[06-Nov-2018 23:31:33 UTC] PHP Stack trace:
+[06-Nov-2018 23:31:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:31:33 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:31:33 UTC] PHP   3. playerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:22
+[06-Nov-2018 23:31:33 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:69
+[06-Nov-2018 23:31:33 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:31
+[06-Nov-2018 23:31:33 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 32
+[06-Nov-2018 23:31:33 UTC] PHP Stack trace:
+[06-Nov-2018 23:31:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:31:33 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:31:33 UTC] PHP   3. playerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:22
+[06-Nov-2018 23:31:33 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:69
+[06-Nov-2018 23:31:33 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:32
+[06-Nov-2018 23:32:14 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 31
+[06-Nov-2018 23:32:14 UTC] PHP Stack trace:
+[06-Nov-2018 23:32:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:32:14 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:32:14 UTC] PHP   3. dealerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:14
+[06-Nov-2018 23:32:14 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:53
+[06-Nov-2018 23:32:14 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:31
+[06-Nov-2018 23:32:14 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 32
+[06-Nov-2018 23:32:14 UTC] PHP Stack trace:
+[06-Nov-2018 23:32:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:32:14 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:32:14 UTC] PHP   3. dealerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:14
+[06-Nov-2018 23:32:14 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:53
+[06-Nov-2018 23:32:14 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:32
+[06-Nov-2018 23:32:14 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 31
+[06-Nov-2018 23:32:14 UTC] PHP Stack trace:
+[06-Nov-2018 23:32:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:32:14 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:32:14 UTC] PHP   3. dealerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:14
+[06-Nov-2018 23:32:14 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:56
+[06-Nov-2018 23:32:14 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:31
+[06-Nov-2018 23:32:14 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 32
+[06-Nov-2018 23:32:14 UTC] PHP Stack trace:
+[06-Nov-2018 23:32:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:32:14 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:32:14 UTC] PHP   3. dealerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:14
+[06-Nov-2018 23:32:14 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:56
+[06-Nov-2018 23:32:14 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:32
+[06-Nov-2018 23:32:14 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 31
+[06-Nov-2018 23:32:14 UTC] PHP Stack trace:
+[06-Nov-2018 23:32:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:32:14 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:32:14 UTC] PHP   3. playerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:22
+[06-Nov-2018 23:32:14 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:66
+[06-Nov-2018 23:32:14 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:31
+[06-Nov-2018 23:32:14 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 32
+[06-Nov-2018 23:32:14 UTC] PHP Stack trace:
+[06-Nov-2018 23:32:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:32:14 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:32:14 UTC] PHP   3. playerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:22
+[06-Nov-2018 23:32:14 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:66
+[06-Nov-2018 23:32:14 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:32
+[06-Nov-2018 23:32:14 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 31
+[06-Nov-2018 23:32:14 UTC] PHP Stack trace:
+[06-Nov-2018 23:32:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:32:14 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:32:14 UTC] PHP   3. playerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:22
+[06-Nov-2018 23:32:14 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:69
+[06-Nov-2018 23:32:14 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:31
+[06-Nov-2018 23:32:14 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 32
+[06-Nov-2018 23:32:14 UTC] PHP Stack trace:
+[06-Nov-2018 23:32:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:32:14 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:32:14 UTC] PHP   3. playerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:22
+[06-Nov-2018 23:32:14 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:69
+[06-Nov-2018 23:32:14 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:32
+[06-Nov-2018 23:32:21 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 31
+[06-Nov-2018 23:32:21 UTC] PHP Stack trace:
+[06-Nov-2018 23:32:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:32:21 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:32:21 UTC] PHP   3. dealerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:14
+[06-Nov-2018 23:32:21 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:53
+[06-Nov-2018 23:32:21 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:31
+[06-Nov-2018 23:32:21 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 32
+[06-Nov-2018 23:32:21 UTC] PHP Stack trace:
+[06-Nov-2018 23:32:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:32:21 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:32:21 UTC] PHP   3. dealerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:14
+[06-Nov-2018 23:32:21 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:53
+[06-Nov-2018 23:32:21 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:32
+[06-Nov-2018 23:32:21 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 31
+[06-Nov-2018 23:32:21 UTC] PHP Stack trace:
+[06-Nov-2018 23:32:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:32:21 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:32:21 UTC] PHP   3. dealerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:14
+[06-Nov-2018 23:32:21 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:56
+[06-Nov-2018 23:32:21 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:31
+[06-Nov-2018 23:32:21 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 32
+[06-Nov-2018 23:32:21 UTC] PHP Stack trace:
+[06-Nov-2018 23:32:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:32:21 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:32:21 UTC] PHP   3. dealerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:14
+[06-Nov-2018 23:32:21 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:56
+[06-Nov-2018 23:32:21 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:32
+[06-Nov-2018 23:32:21 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 31
+[06-Nov-2018 23:32:21 UTC] PHP Stack trace:
+[06-Nov-2018 23:32:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:32:21 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:32:21 UTC] PHP   3. playerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:22
+[06-Nov-2018 23:32:21 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:66
+[06-Nov-2018 23:32:21 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:31
+[06-Nov-2018 23:32:21 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 32
+[06-Nov-2018 23:32:21 UTC] PHP Stack trace:
+[06-Nov-2018 23:32:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:32:21 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:32:21 UTC] PHP   3. playerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:22
+[06-Nov-2018 23:32:21 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:66
+[06-Nov-2018 23:32:21 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:32
+[06-Nov-2018 23:32:21 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 31
+[06-Nov-2018 23:32:21 UTC] PHP Stack trace:
+[06-Nov-2018 23:32:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:32:21 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:32:21 UTC] PHP   3. playerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:22
+[06-Nov-2018 23:32:21 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:69
+[06-Nov-2018 23:32:21 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:31
+[06-Nov-2018 23:32:21 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 32
+[06-Nov-2018 23:32:21 UTC] PHP Stack trace:
+[06-Nov-2018 23:32:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:32:21 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:32:21 UTC] PHP   3. playerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:22
+[06-Nov-2018 23:32:21 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:69
+[06-Nov-2018 23:32:21 UTC] PHP   5. array_rand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:32
+[06-Nov-2018 23:45:05 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 60
+[06-Nov-2018 23:45:05 UTC] PHP Stack trace:
+[06-Nov-2018 23:45:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:45:20 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 60
+[06-Nov-2018 23:45:20 UTC] PHP Stack trace:
+[06-Nov-2018 23:45:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:45:26 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 60
+[06-Nov-2018 23:45:26 UTC] PHP Stack trace:
+[06-Nov-2018 23:45:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:45:55 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 58
+[06-Nov-2018 23:45:55 UTC] PHP Stack trace:
+[06-Nov-2018 23:45:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:46:08 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 58
+[06-Nov-2018 23:46:08 UTC] PHP Stack trace:
+[06-Nov-2018 23:46:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:46:18 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 51
+[06-Nov-2018 23:46:18 UTC] PHP Stack trace:
+[06-Nov-2018 23:46:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:46:47 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 26
+[06-Nov-2018 23:46:47 UTC] PHP Stack trace:
+[06-Nov-2018 23:46:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:46:47 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:46:47 UTC] PHP   3. playerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:8
+[06-Nov-2018 23:46:47 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:47
+[06-Nov-2018 23:46:47 UTC] PHP   5. array_push() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:26
+[06-Nov-2018 23:46:47 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 26
+[06-Nov-2018 23:46:47 UTC] PHP Stack trace:
+[06-Nov-2018 23:46:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:46:47 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:46:47 UTC] PHP   3. playerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:8
+[06-Nov-2018 23:46:47 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:50
+[06-Nov-2018 23:46:47 UTC] PHP   5. array_push() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:26
+[06-Nov-2018 23:47:02 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 26
+[06-Nov-2018 23:47:02 UTC] PHP Stack trace:
+[06-Nov-2018 23:47:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:47:02 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:47:02 UTC] PHP   3. playerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:8
+[06-Nov-2018 23:47:02 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:47
+[06-Nov-2018 23:47:02 UTC] PHP   5. array_push() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:26
+[06-Nov-2018 23:47:02 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 26
+[06-Nov-2018 23:47:02 UTC] PHP Stack trace:
+[06-Nov-2018 23:47:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:47:02 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:47:02 UTC] PHP   3. playerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:8
+[06-Nov-2018 23:47:02 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:50
+[06-Nov-2018 23:47:02 UTC] PHP   5. array_push() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:26
+[06-Nov-2018 23:47:14 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 26
+[06-Nov-2018 23:47:14 UTC] PHP Stack trace:
+[06-Nov-2018 23:47:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:47:14 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:47:14 UTC] PHP   3. playerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:8
+[06-Nov-2018 23:47:14 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:47
+[06-Nov-2018 23:47:14 UTC] PHP   5. array_push() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:26
+[06-Nov-2018 23:47:14 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 26
+[06-Nov-2018 23:47:14 UTC] PHP Stack trace:
+[06-Nov-2018 23:47:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[06-Nov-2018 23:47:14 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[06-Nov-2018 23:47:14 UTC] PHP   3. playerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:8
+[06-Nov-2018 23:47:14 UTC] PHP   4. pickCard() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:50
+[06-Nov-2018 23:47:14 UTC] PHP   5. array_push() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:26
