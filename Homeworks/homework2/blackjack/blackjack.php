@@ -11,8 +11,8 @@
         <?php
         include 'inc/functions.php';
         
-        play();
+        start();
         
-        ?>
+        ?>        
     </body>
 </html>
