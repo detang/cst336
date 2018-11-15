@@ -1351,3 +1351,8 @@
 [13-Nov-2018 07:18:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
 [13-Nov-2018 07:18:16 UTC] PHP   2. start() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
 [13-Nov-2018 07:18:16 UTC] PHP   3. playerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:6
+[13-Nov-2018 07:35:49 UTC] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php on line 121
+[13-Nov-2018 07:35:49 UTC] PHP Stack trace:
+[13-Nov-2018 07:35:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:0
+[13-Nov-2018 07:35:49 UTC] PHP   2. start() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/blackjack.php:14
+[13-Nov-2018 07:35:49 UTC] PHP   3. playerHand() /home/ubuntu/workspace/cst336/Homeworks/homework2/blackjack/inc/functions.php:6

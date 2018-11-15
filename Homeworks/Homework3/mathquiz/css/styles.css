@@ -1,0 +1,86 @@
+body {
+    background-color: teal;
+}
+
+main{
+    text-align: center;
+    margin: auto;
+    width: 1000px;
+}
+
+header, footer{
+    text-align: center;
+    padding: 0px;
+    width:1500px;
+    margin: 0 auto;
+    background-color: gray;
+}
+
+header {
+    font-size: 2.5em;
+    margin-bottom: 0px;
+    font-family: Arial, cursive;
+}
+
+header p {
+    font-size: .7em;
+}
+
+input {
+    text-align: center;  
+}
+
+footer {
+    font-size: .75em;
+    font-style:italic;
+}
+
+footer img{
+    float:inherit;
+}
+
+input[type="radio"]{
+    margin:10px;
+}
+
+#test, #results{
+    border-style: double;
+    margin: auto;
+    width:600px;
+}
+
+#testForm {
+    text-align: center;
+    margin: 0 auto;
+    padding-bottom: 15px;
+    list-style: none;
+}
+
+#radioTab{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+
+#grade{
+    font-size: 2em;
+    color:red;
+}
+
+#nextQuestion{
+    width: 75%;
+    margin: 50px auto 10px auto;
+}
+
+.resultMessage{
+    font-size: 1.5em;
+    color:red;
+    text-decoration: underline;
+}
+
+.noAnswer{
+    font-size: 1em;
+    color:pink;
+}
+
+
